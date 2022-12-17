@@ -23,3 +23,13 @@ ML Classification Capstone project
 * Things started to get better in **September, 2005** .
 
 * Unsurprisingly, customers who had **higher credit** limits had **lower delayed** payment rates.
+*  The minimals of those 6 bill columns are negative numbers. 
+
+* In general, there are **590-688** bills with negative amounts each month, which is less than **2% **of total **30,000** records monthly.
+
+* The common sense is that the bill statement amount shouldn't exceed credit limit.
+
+*  However, there are **3931 customers** whose bill amounts are greater than credit limit. 
+
+* Could the difference be late payment interest assuming these customers had **delayed payment**?
+* 
