@@ -89,6 +89,8 @@ use smote because the data is imbalanced
 
 * By applying **XGBoost Classifier** with recall **78%**, we can predict with 81.60% accuracy whether a customer is likely to default next month.
 
+![image](https://user-images.githubusercontent.com/112492310/208240366-a01116f6-fe9f-46a9-a011-6b009b137146.png)
+
 
 ---
 ### **Model Explaination**
