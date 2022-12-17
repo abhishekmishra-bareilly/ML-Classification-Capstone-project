@@ -32,6 +32,22 @@ ML Classification Capstone project
 *  However, there are **3931 customers** whose bill amounts are greater than credit limit. 
 
 * Could the difference be late payment interest assuming these customers had **delayed payment**?
+
+
+
+# **Conclusion:-**
+
+
+### **Prepare for Modeling**
+
+* we use **pairplots** for understanding the data.
+
+* Also created **bins** for **AGE** columns.
+
+* This dataset is also **imbalanced**, with **78%** non-default vs **22%** default.
+
+* We use **SMOTE** because the class is highlly **Imbalance**
+
 * There are **870 customers** whose bill amount was 0 in 6 months
 
 * **317** **customers** had default payment next month which is against common sense.
