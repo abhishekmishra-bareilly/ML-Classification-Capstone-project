@@ -9,3 +9,10 @@ ML Classification Capstone project
 * **30%** male have **default** payment while **26%** female have **defaul** payment, the difference is not significant.
 
 * Also we can see **Female** have more **count** than **male**
+* **'EDUCATION'** column: notice **5** and **6** are both recorded as **'unknown'** and there is 0 which isn't explained in the dataset description. 
+
+* Since the amounts are so small, let's combine **0,4,5,6** to **0** which means**"other**'.
+
+* **'MARRIAGE'** column: what does **0** mean in **'MARRIAGE'**? Since there are only  54 observations of 0, 
+
+* we will combine **0** and **3** in one value as **'others'**.
