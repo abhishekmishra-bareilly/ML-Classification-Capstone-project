@@ -66,8 +66,9 @@ ML Classification Capstone project
 * Using **Random Fores**t, we can predict with **78.38%** accuracy whether a customer will be defaulter in next month or not.
 
 * By applying **XGBoost Classifier** with recall **75%**, we can predict with 81.60% accuracy whether a customer is likely to default next month.
+---
 ![image](https://user-images.githubusercontent.com/112492310/208240496-a7d5a09a-53c5-4f99-b770-3451ce5f6bce.png)
-
+---
 ![image](https://user-images.githubusercontent.com/112492310/208240537-67056714-2c22-422d-935f-21dd59e3065c.png)
 
 ---
@@ -90,16 +91,18 @@ use smote because the data is imbalanced
 * Using **Random Fores**t, we can predict with **74.38%** accuracy whether a customer will be defaulter in next month or not.
 
 * By applying **XGBoost Classifier** with recall **78%**, we can predict with 81.60% accuracy whether a customer is likely to default next month.
-
+---
 ![image](https://user-images.githubusercontent.com/112492310/208240366-a01116f6-fe9f-46a9-a011-6b009b137146.png)
-
+---
 
 ![image](https://user-images.githubusercontent.com/112492310/208240465-c2ccf98c-cbdb-418e-9f50-e75d7dc163f1.png)
 
 ---
 ### **Model Explaination**
 ![image](https://user-images.githubusercontent.com/112492310/208240574-4c4dd49b-43e8-4314-96eb-7508f933c196.png)
-
+---
+![image](https://user-images.githubusercontent.com/112492310/208240601-5ebaa969-eb13-4b47-ba3e-c83c8353340f.png)
+---
 * 'MARRIGE' is the most important features and pay_1 and SEX are also important.
 
 * pay_amt4 is the least important feature.
