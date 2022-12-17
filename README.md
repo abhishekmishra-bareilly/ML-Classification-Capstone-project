@@ -68,6 +68,7 @@ ML Classification Capstone project
 * By applying **XGBoost Classifier** with recall **75%**, we can predict with 81.60% accuracy whether a customer is likely to default next month.
 ![image](https://user-images.githubusercontent.com/112492310/208240496-a7d5a09a-53c5-4f99-b770-3451ce5f6bce.png)
 
+![image](https://user-images.githubusercontent.com/112492310/208240537-67056714-2c22-422d-935f-21dd59e3065c.png)
 
 ---
 ### **MODELS - 2**
