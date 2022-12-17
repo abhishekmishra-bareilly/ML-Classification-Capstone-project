@@ -32,4 +32,6 @@ ML Classification Capstone project
 *  However, there are **3931 customers** whose bill amounts are greater than credit limit. 
 
 * Could the difference be late payment interest assuming these customers had **delayed payment**?
-* 
+* There are **870 customers** whose bill amount was 0 in 6 months
+
+* **317** **customers** had default payment next month which is against common sense.
