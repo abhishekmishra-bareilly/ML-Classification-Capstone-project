@@ -69,3 +69,25 @@ ML Classification Capstone project
 
 
 ---
+### **MODELS - 2**
+
+* Rename default default payment next month to is defaulter
+use smote because the data is imbalanced
+
+* Create another feater named Payement_Value after adding all pay columns
+* Create another feater Dues after adding all dues
+* Replace 5,6,0 to 4 in education column
+* Replace 0 with 3 in marrige column
+* Using one hot encoding on Education, Marrige,column
+* Using lavel encoding on  Sex column
+
+* Using a **Logistic Regression** classifier, we can predict with **72%** accuracy, whether a customer is likely to default next month.
+
+* Using **Decision Tree** classifier, we can predict with **83.83%** accuracy whether a customer is likely to default next month or not.
+
+* Using **Random Fores**t, we can predict with **74.38%** accuracy whether a customer will be defaulter in next month or not.
+
+* By applying **XGBoost Classifier** with recall **78%**, we can predict with 81.60% accuracy whether a customer is likely to default next month.
+
+
+---
