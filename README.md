@@ -66,6 +66,7 @@ ML Classification Capstone project
 * Using **Random Fores**t, we can predict with **78.38%** accuracy whether a customer will be defaulter in next month or not.
 
 * By applying **XGBoost Classifier** with recall **75%**, we can predict with 81.60% accuracy whether a customer is likely to default next month.
+![image](https://user-images.githubusercontent.com/112492310/208240496-a7d5a09a-53c5-4f99-b770-3451ce5f6bce.png)
 
 
 ---
