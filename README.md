@@ -50,4 +50,22 @@ ML Classification Capstone project
 
 * There are **870 customers** whose bill amount was 0 in 6 months
 
-* **317** **customers** had default payment next month which is against common sense.
+* **317** **customers** had default payment next month which is against common sense
+
+---
+
+
+
+
+### **MODELS - 1**
+
+* Using a **Logistic Regression** classifier, we can predict with **68.37%** accuracy, whether a customer is likely to default next month.
+
+* Using **Decision Tree** classifier, we can predict with **73.83%** accuracy whether a customer is likely to default next month or not.
+
+* Using **Random Fores**t, we can predict with **78.38%** accuracy whether a customer will be defaulter in next month or not.
+
+* By applying **XGBoost Classifier** with recall **75%**, we can predict with 81.60% accuracy whether a customer is likely to default next month.
+
+
+---
