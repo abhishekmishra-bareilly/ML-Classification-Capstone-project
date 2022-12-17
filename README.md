@@ -33,7 +33,7 @@ ML Classification Capstone project
 
 * Could the difference be late payment interest assuming these customers had **delayed payment**?
 
-
+---
 
 # **Conclusion:-**
 
@@ -91,3 +91,8 @@ use smote because the data is imbalanced
 
 
 ---
+### **Model Explaination**
+
+* 'MARRIGE' is the most important features and pay_1 and SEX are also important.
+
+* pay_amt4 is the least important feature.
