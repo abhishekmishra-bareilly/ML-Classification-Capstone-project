@@ -16,3 +16,10 @@ ML Classification Capstone project
 * **'MARRIAGE'** column: what does **0** mean in **'MARRIAGE'**? Since there are only  54 observations of 0, 
 
 * we will combine **0** and **3** in one value as **'others'**.
+* There was a huge jump from **May 2005**  to **July 2005** 
+
+* when delayed payment increased significantly, then it peaked at **August 2005**.
+
+* Things started to get better in **September, 2005** .
+
+* Unsurprisingly, customers who had **higher credit** limits had **lower delayed** payment rates.
