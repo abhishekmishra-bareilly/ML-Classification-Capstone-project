@@ -98,6 +98,7 @@ use smote because the data is imbalanced
 
 ---
 ### **Model Explaination**
+![image](https://user-images.githubusercontent.com/112492310/208240574-4c4dd49b-43e8-4314-96eb-7508f933c196.png)
 
 * 'MARRIGE' is the most important features and pay_1 and SEX are also important.
 
