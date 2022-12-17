@@ -92,6 +92,8 @@ use smote because the data is imbalanced
 ![image](https://user-images.githubusercontent.com/112492310/208240366-a01116f6-fe9f-46a9-a011-6b009b137146.png)
 
 
+![image](https://user-images.githubusercontent.com/112492310/208240465-c2ccf98c-cbdb-418e-9f50-e75d7dc163f1.png)
+
 ---
 ### **Model Explaination**
 
